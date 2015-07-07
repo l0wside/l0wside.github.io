@@ -101,14 +101,16 @@ $(document).ready(function(){initNavTree('index.html','');});
 <div class="title">QVisu Documentation</div>  </div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><h2>CAUTION</h2>
+<div class="textblock"><p>QVisu lets you display the status of your smart home. Contrary to other approaches like <a href="http://www.cometvisu.org">CometVisu</a> and <a href="http://www.smartvisu.de">SmartVisu</a>, it is not browser-based, but a program of its own. It is based on the QT5 framework, making it portable across <a href="http://doc.qt.io/QtSupportedPlatforms/index.html">a wide range of platforms</a>.</p>
+<p>The look of the visualization is inspired by the Windows 8 tiles.</p>
+<p>Currently, only Windows binaries are provided. Other planned targets are Linux x86 (Ubuntu) and Linux armhf (Raspberry Pi). Anyone is more than welcome to generate Android, Mac, iOS, or other versions.</p>
+<div class="image">
+<img src="screenshot.png" />
+</div>
+<h2>CAUTION</h2>
 <p>This is a preliminary version, which is known to have bugs. As it does not write anything to the local disk system (with the exception of the Google calendar element, which writes some values to the registry), it should not cause any major damage to the device it is running on. Still, you use it completely at your own risk. It can and will interact with your home automation, where it can potentially cause damage. You have been warned.</p>
 <h2>License</h2>
 <p>QVisu is licensed under GPL v2. The Websocket driver is licensed under LGPL v2.</p>
-<h2>Scope</h2>
-<p>QVisu lets you display the status of your smart home. Contrary to other approaches like <a href="http://www.cometvisu.org">CometVisu</a> and <a href="http://www.smartvisu.de">SmartVisu</a>, it is not browser-based, but a program of its own. It is based on the QT5 framework, making it portable across <a href="http://doc.qt.io/QtSupportedPlatforms/index.html">a wide range of platforms</a>.</p>
-<p>The look of the visualization is inspired by the Windows 8 tiles.</p>
-<p>Currently, only Windows binaries are provided. Other planned targets are Linux x86 (Ubuntu) and Linux armhf (Raspberry Pi). Anyone is more than welcome to generate Android, Mac, iOS, or other versions.</p>
 <h2>Backend</h2>
 <p>QVisu is currently set up to be used with the websocket driver of <a href="http://mknx.github.io/smarthome/">smarthome.py</a>. The driver should also work with the smartvisu driver of openHAB, but this is untested.</p>
 <p>A KNX driver (which would not require an explicit backend like smarthome.py) is also planned, but not exactly a top priority.</p>
@@ -296,7 +298,7 @@ qvisu
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Tue Jul 7 2015 22:36:35 for QVisu by
+    <li class="footer">Generated on Tue Jul 7 2015 23:00:59 for QVisu by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.8 </li>
   </ul>
