@@ -1,0 +1,4 @@
+var structvlc__event__t_1_1vlc__event__type__specific_1_1input__item__error__when__reading__changed =
+[
+    [ "new_value", "structvlc__event__t_1_1vlc__event__type__specific_1_1input__item__error__when__reading__changed.html#aeee07752a151a99fca495a17b6313a3a", null ]
+];

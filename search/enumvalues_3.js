@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['sd_5fcap_5fsearch',['SD_CAP_SEARCH',['../vlc__services__discovery_8h.html#a58ca66b6ff376c94d1c4fe847bcab409ae7e068496551531937585acac2b2f589',1,'vlc_services_discovery.h']]],
+  ['sd_5fcat_5fdevices',['SD_CAT_DEVICES',['../vlc__services__discovery_8h.html#a2191edc6418d6573bbfb1d08af6e1855a6a6bc3df5886da780b2d067b437e5359',1,'vlc_services_discovery.h']]],
+  ['sd_5fcat_5finternet',['SD_CAT_INTERNET',['../vlc__services__discovery_8h.html#a2191edc6418d6573bbfb1d08af6e1855a1ae50463f59c12beed8ac080a073bd0e',1,'vlc_services_discovery.h']]],
+  ['sd_5fcat_5flan',['SD_CAT_LAN',['../vlc__services__discovery_8h.html#a2191edc6418d6573bbfb1d08af6e1855a55feadf993411a07e417911f01384ace',1,'vlc_services_discovery.h']]],
+  ['sd_5fcat_5fmycomputer',['SD_CAT_MYCOMPUTER',['../vlc__services__discovery_8h.html#a2191edc6418d6573bbfb1d08af6e1855a678fade7b149af961475ba508a7cae07',1,'vlc_services_discovery.h']]],
+  ['sd_5fcmd_5fdescriptor',['SD_CMD_DESCRIPTOR',['../vlc__services__discovery_8h.html#a921bb104d6f034e60446f6b67bad95e8ae417ae3dff7ddc9142117ecac477db0e',1,'vlc_services_discovery.h']]],
+  ['sd_5fcmd_5fsearch',['SD_CMD_SEARCH',['../vlc__services__discovery_8h.html#a921bb104d6f034e60446f6b67bad95e8a2bad73904272ccd4cfeaac35260c3b12',1,'vlc_services_discovery.h']]],
+  ['stream_5fcan_5fcontrol_5fpace',['STREAM_CAN_CONTROL_PACE',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa4ad696863f1d78fdce009c9d3ca249a0',1,'vlc_stream.h']]],
+  ['stream_5fcan_5ffastseek',['STREAM_CAN_FASTSEEK',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa8aec9890f93fde818e3fe8bacd7496ec',1,'vlc_stream.h']]],
+  ['stream_5fcan_5fpause',['STREAM_CAN_PAUSE',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa8dd0cea80134003f8582ff8e8c5d48d3',1,'vlc_stream.h']]],
+  ['stream_5fcan_5fseek',['STREAM_CAN_SEEK',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aaa8713b90e0df50b9ce6653211d20f4f9',1,'vlc_stream.h']]],
+  ['stream_5fget_5fcontent_5ftype',['STREAM_GET_CONTENT_TYPE',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa7ebc58a0d76f4fa44444305d3116bf2f',1,'vlc_stream.h']]],
+  ['stream_5fget_5fmeta',['STREAM_GET_META',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aaff64344cb822f1b6cb88f1cfe6289044',1,'vlc_stream.h']]],
+  ['stream_5fget_5fposition',['STREAM_GET_POSITION',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa90d98a3ef92e3829177249d2987b334d',1,'vlc_stream.h']]],
+  ['stream_5fget_5fsignal',['STREAM_GET_SIGNAL',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aaacf5c3f2478728f39372ebf0881c6c2c',1,'vlc_stream.h']]],
+  ['stream_5fget_5fsize',['STREAM_GET_SIZE',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aad711fafff9c55278e65102af584a235b',1,'vlc_stream.h']]],
+  ['stream_5fget_5ftitle_5finfo',['STREAM_GET_TITLE_INFO',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aaff4a61fe8c4a4bb2d9ed917189481f00',1,'vlc_stream.h']]],
+  ['stream_5fset_5fpause_5fstate',['STREAM_SET_PAUSE_STATE',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa52b071c3972f120269b8e694954717e8',1,'vlc_stream.h']]],
+  ['stream_5fset_5fposition',['STREAM_SET_POSITION',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aaa2200d3aaa6b35f4eb4bfc9b0c9a4dd9',1,'vlc_stream.h']]],
+  ['stream_5fset_5frecord_5fstate',['STREAM_SET_RECORD_STATE',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa603f56e65f3d97803a81de2a578907af',1,'vlc_stream.h']]],
+  ['stream_5fset_5fseekpoint',['STREAM_SET_SEEKPOINT',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aafff7614b422eff8e6c2caefaaf98453c',1,'vlc_stream.h']]],
+  ['stream_5fset_5ftitle',['STREAM_SET_TITLE',['../group__stream.html#ggac90a8aaf65579464a5604c9de255929aa975e8a0d165a9dd46717374368de6c1b',1,'vlc_stream.h']]]
+];

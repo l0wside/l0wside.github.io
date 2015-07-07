@@ -1,0 +1,25 @@
+var structinput__item__t =
+[
+    [ "b_error_when_reading", "structinput__item__t.html#a03f764a59ec0d7a8564047c518539028", null ],
+    [ "b_fixed_name", "structinput__item__t.html#a2ba6fa3a8ed98868c010272d03a57bb4", null ],
+    [ "es", "structinput__item__t.html#aaca09137356e31604e1f3c28c864c19c", null ],
+    [ "event_manager", "structinput__item__t.html#a8df350f17a1cc318c3533727a35793ae", null ],
+    [ "i_categories", "structinput__item__t.html#aa622ae9c38f9c1bf67d3a94dfb6c7f00", null ],
+    [ "i_duration", "structinput__item__t.html#ad64a8057e0d7fbb4425f23b600884c59", null ],
+    [ "i_epg", "structinput__item__t.html#a59f0969b3cf820cb610c34ba0a470eca", null ],
+    [ "i_es", "structinput__item__t.html#a745e6a8690dd96d2bd7319816ef387fa", null ],
+    [ "i_id", "structinput__item__t.html#aa18098cebdb75e281d70c83bddaeda72", null ],
+    [ "i_nb_played", "structinput__item__t.html#ae53484a44026ee2cba22f0297c0cd7ec", null ],
+    [ "i_options", "structinput__item__t.html#a4437f02e3f0f430e74a20b98f957d54c", null ],
+    [ "i_type", "structinput__item__t.html#a92dd16affdc8178f5dffb94daad500ff", null ],
+    [ "lock", "structinput__item__t.html#a8888ef40f6e10f3822ce4d25f9d0caf8", null ],
+    [ "optflagc", "structinput__item__t.html#a850a16f03b6ddbce54efcf57560a3ed5", null ],
+    [ "optflagv", "structinput__item__t.html#a5e22414e969be944f7a6a4a7052a1dec", null ],
+    [ "p_meta", "structinput__item__t.html#ab680e5af80128b4f32c35c2a375021d2", null ],
+    [ "p_stats", "structinput__item__t.html#a9f286f160c52a9b715fe2751a00655f5", null ],
+    [ "pp_categories", "structinput__item__t.html#a79c218f8909c395ccd6863fa9d3047dc", null ],
+    [ "pp_epg", "structinput__item__t.html#a5fc49499e259d3f29e89293261a6c584", null ],
+    [ "ppsz_options", "structinput__item__t.html#acf3581d99467cb0330a035f220237ec4", null ],
+    [ "psz_name", "structinput__item__t.html#af1431396bf9f225003c8d27fefee2f72", null ],
+    [ "psz_uri", "structinput__item__t.html#aa2a16e74594955746c5a5abbf556268f", null ]
+];
